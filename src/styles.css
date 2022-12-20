@@ -1,0 +1,62 @@
+body,html{
+   
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url(../assets/login/wp2904203.jpg) no-repeat center center fixed;
+    background-size: 100% 100%;
+
+    /* filter: brightness(1);  */
+   
+}
+ .list-group-item {
+
+    width: 60%;
+    background-color:#1069c1;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size:x-large
+    
+} 
+
+.animate__animated.animate__bounce {    
+    --animate-duration: 4s;
+  }
+  
+ 
+  :root {
+    --animate-duration: 1000ms;
+    --animate-delay: 3s;
+  }
+
+
+  
+
+
+
+.card{
+  
+    font-size: 20px;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#212529;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+h5{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
